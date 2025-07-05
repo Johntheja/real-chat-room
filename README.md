@@ -1,2 +1,2 @@
 # real-chat-room
-A real-time multi-room chat application built with React, TypeScript, and Tailwind CSS.
+A Chat app where user can send messages in a room or send private message to a user
